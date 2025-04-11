@@ -1,6 +1,6 @@
 [AdGuard Manado 0.1]
 ! Version: 202504110001
-! Title: ABPindo
+! Title: AdGuard Manado
 ! Description: Daftar website terlarang yang perlu di blok untuk siswa.
 ! Last modified: 05 Apr 2025 23:29 UTC
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
@@ -10,19 +10,7 @@
 ! ---------------------- advert blocking filters ----------------------!
 ! Confirmed ad servers
 ||luluvdo.com^
-||doodweb.fun^
-||doodstream.life^
-||doodstream.fun^
-||pay4funs.com^
-||dood.pm^
-||terabox.link^
-||terabox.com^
-||dood.li^
-||doood.mom^
 ||yucub.lat^
-||dood.li^
-||dood.to^
-||bestx.stream^
 ||mov18plus.cloud^
 ||vpnnawala.site
 ||cek.to^
@@ -41,7 +29,6 @@
 ||kuypenta10.fun^
 ||bole89.store^
 ||badgercafeandpub.com^
-||gdriveplayer.to^
 ||hoyoverse.com^
 ||moengage.com^
 ||shorttv.live^
@@ -58,7 +45,6 @@
 ||mobiaviator.com^
 ||youngjoygame.com^
 ||bytegsdk.com^
-||filemoon.nl^
 ||x504x.com^
 ||vidio.com^
 ||vidiocdn.net^
@@ -71,22 +57,48 @@
 ||susercontent.com^
 ||branch.io^
 ||doubleclick.net^
-||lk21.film^
-||stream.hownetwork.xyz^
-||emturbovid.com^
-||filelions.to^
-||vidhidefast.com^
-||filemoon.sx^
+||reddit.com^
+||4chan.org^
+! ---------------------- Stream Server Internasional ----------------------!
 ||short.ink^
 ||abyss.to^
 ||helvid.net^
 ||boosterx.stream^
+||stream.hownetwork.xyz^
+||emturbovid.com^
+||filelions.to^
+||vidhidefast.com^
 ||listeamed.net^
+||gdriveplayer.to^
+||dood.li^
+||dood.to^
+||bestx.stream^
+||doodweb.fun^
+||doodstream.life^
+||doodstream.fun^
+||pay4funs.com^
+||dood.pm^
+||dood.li^
+||doood.mom^
+||terabox.link^
+||terabox.com^
+||newer.stream^
+||abysscdn.com^
+||short.icu^
+! ---------------------- File Server ----------------------!
 ||mirrored.to^
 ||gofile.io^
 ||1024terabox.com^
-||reddit.com^
-||4chan.org^
+||filemoon.sx^
+||filemoon.nl^
+! ---------------------- Website Film/Series Bajakan ----------------------!
+||lk21.film^
+||138.68.175.157^
+||ljberrylaw.com^
+||maroonbellsmorris.org^
+||rebahinxxi1.lol^
+||199.87.210.226^
+||blblawyers.com^
 ! ---------------------- Website yang diterima ----------------------!
 ! Website yang di terima
 @@||wix.com^
